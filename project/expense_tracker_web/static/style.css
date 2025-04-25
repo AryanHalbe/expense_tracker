@@ -1,0 +1,32 @@
+body {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: #f3f4f6;
+    color: #111;
+    text-align: center ;
+    padding: 2rem;
+    }
+h1 {
+    font-size: 2.5rem;
+    color: #4a5568;
+    margin-bottom: 1rem;
+    }
+    a {
+        display: inline-block;
+        margin: 1rem;
+        color: rgb(73, 69, 69);
+        
+        text-decoration: none;
+    }
+    form input{
+        padding: auto;
+        margin: auto;
+
+    }
+    ul {
+        list-style-type: none;
+        padding: 0;
+    }
+    li {
+        margin: 0.5rem 0;
+      
+    }
